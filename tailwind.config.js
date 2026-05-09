@@ -22,8 +22,8 @@ export default {
         'oxide-border': '#DDB9A9',
       },
       fontFamily: {
-        sans: ['system-ui', '-apple-system', 'sans-serif'],
-        mono: ['ui-monospace', 'SFMono-Regular', 'Menlo', 'monospace'],
+        sans: ['"DM Sans"', 'system-ui', 'sans-serif'],
+        mono: ['"IBM Plex Mono"', 'ui-monospace', 'monospace'],
       },
       fontSize: {
         '2xs': ['11px', { lineHeight: '1.4', letterSpacing: '0.02em' }],
